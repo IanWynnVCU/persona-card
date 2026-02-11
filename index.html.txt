@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Persona: [Insert Name]</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="persona-card">
+        <!-- Ensure this matches your filename exactly! -->
+        <img src="hairforlady.avif" alt="User Profile Photo">
+        
+        <h1>[Maria]</h1>
+        <h2>[Salon Owner]</h2>
+        <p class="bio">[Owner of local business “Hair for you,” which handles all kinds of hair needs. Any and all are welcome to come get their hair done.]</p>
+        
+        <div class="details">
+            <div class="column">
+                <h3>Goals</h3>
+                <ul>
+                    <li>[Centralize work flow]</li>
+                    <li>[Automate workspace]</li>
+                    <li>[Consistent bookkeeping]</li>
+                </ul>
+            </div>
+            <div class="column">
+                <h3>Frustrations</h3>
+                <ul>
+                    <li>[Lack of central workspace “usually write invoices at the end of the day on my laptop using a Word template I made years ago. I save it as a PDF and email it to clients. For tracking, I keep a notebook behind the counter where I mark who’s paid and who hasn’t. Sometimes I also check my bank app to see if money came in.”]</li>
+                    <li>[Hard to keep up with everything “it’s repetitive but manageable. The hardest part is tracking. When it gets busy, I forget to update my notebook, and then later I don’t remember if someone paid or not.”]</li>
+                    <li>[Lack of bookkeeping “Last month a regular client insisted she already paid. I couldn’t find the record, and I felt awkward pushing back. Turns out she paid cash to one of my staff and it never got written down.”]</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
