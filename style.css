@@ -39,5 +39,6 @@ img {
 
 
 /* Add your own colors below based on your Vibe! */
-h1 { color: white; }
+h1 { color: pink; }
 h3 { color: pink; border-bottom: 2px solid #ddd; }
+h2 {color : gray}
