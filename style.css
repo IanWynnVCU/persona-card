@@ -35,11 +35,11 @@ img {
 
 .column {
     width: 45%;
-    padding-left:50px;
-    padding-right:50px;
-    padding-top:50px;
-    padding-bottom:50px;
-    color:pink
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:50px;
+    margin-bottom:50px;
+    background-color: pink;
 }
 
 
